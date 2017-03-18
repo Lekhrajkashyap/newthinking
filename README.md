@@ -1,0 +1,2 @@
+# newthinking
+Mozilla firefox
